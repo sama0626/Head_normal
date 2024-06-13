@@ -9,4 +9,11 @@ https://pan.baidu.com/s/1ay8g8qRWZ0Uw_i2kXOAWWg
 ```
   Access code: SeIF
   
-  Then, Put the downloaded model in the xx directory
+  Then, Create a checkpoints directory and place the downloaded model in this directory.
+
+  At this time, run the following code:
+```
+ python demo.py
+```
+  
+  This code inputs the picture in the image folder and outputs the normal information from this picture. The corresponding results are saved in a image folder. Such as input: image/1.png, output: image/1_normal.png.
