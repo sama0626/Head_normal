@@ -18,7 +18,7 @@ https://pan.baidu.com/s/1ay8g8qRWZ0Uw_i2kXOAWWg
   
   This code inputs the picture in the image folder and outputs the normal information from this picture. The corresponding results are saved in a image folder. Such as input: image/1.png, output: image/1_normal.png.
 
-Note that the reconstruction results are better with higher resolution and positive pose of the input image.
+！！！Note that the reconstruction results are better with higher resolution and positive pose of the input image.
 
   <div align=center>
 <img src="https://github.com/starVisionTeam/SeIF/blob/master/demo/2.png"  />
