@@ -18,8 +18,8 @@ https://pan.baidu.com/s/1ay8g8qRWZ0Uw_i2kXOAWWg
   
   This code inputs the picture in the image folder and outputs the normal information from this picture. The corresponding results are saved in a image folder. Such as input: image/1.png, output: image/1_normal.png.
 
-  ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
+  ![]([https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png](https://github.com/starVisionTeam/SeIF/blob/master/demo/2.png))
 <p align="center">Figure 1: Input.</p>
 
- ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
+ ![]([https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png](https://github.com/starVisionTeam/SeIF/blob/master/demo/2_normal.png))
 <p align="center">Figure 2: Output.</p>
